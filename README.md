@@ -89,10 +89,9 @@ Berfokus pada pengembangan ide, penyusunan informasi, penulisan konten, dan pemb
 
 Saya terbuka untuk berbagi ide, berdiskusi, berkolaborasi, dan belajar bersama.
 
-- **GitHub:** [github.com/USERNAME](https://github.com/USERNAME)
-- **Portfolio:** [Tambahkan tautan portfolio kamu]
-- **Instagram:** [Tambahkan tautan Instagram kamu]
-- **Email:** [Tambahkan email profesional kamu]
+- **Portfolio:** [https://rezkaalfinmaulana.vercel.app/]
+- **Instagram:** [https://www.instagram.com/]
+- **Email:** [rezkaalvinz@gmail.com]
 
 ---
 
