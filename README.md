@@ -7,7 +7,7 @@ I'm an aspiring Full Stack Developer passionate about building web applications 
 - 🌱 Currently learning HTML, CSS, JavaScript, backend development, and databases.
 - 💻 Building personal projects to strengthen my programming fundamentals.
 - 🎯 Goal: Become a professional Full Stack Developer.
-- 📂 Portfolio: [Your Portfolio URL]
+- 📂 Portfolio: [https://rezkaalfinmaulana.vercel.app/]
 - 📫 Contact: [rezkaalvinz@gmail.com]
 
 ---
