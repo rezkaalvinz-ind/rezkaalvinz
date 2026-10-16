@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Rezka Alvinz!
+# 👋 Halo, Saya Rezka Alfin Maulana!
 
 ### 🎨 Graphic Designer | 💻 Frontend Developer | ✍️ Writer
 
